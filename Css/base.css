@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    
+}
+.wrapper {
+    overflow: hidden;
+}
+
+ul {
+    background-color: black;
+    width: 100%;
+    position: fixed;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    
+}
+li {
+    float: left;
+       
+}
+
+a {
+    text-decoration: none;
+    padding: 14px 16px;
+    color: white;
+    display: block;
+    text-align: center;
+    
+}
+
+a:hover {
+    background-color: white;
+    color: black;  
+}
+
+footer {
+    background-color: black;
+    height: 74px;
+    width: 100%;
+    text-align: center;
+}
+h2,h3 {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    /* display: block; */
+    margin: 10px 0px;
+}

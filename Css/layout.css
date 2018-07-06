@@ -1,0 +1,28 @@
+#sail_image {
+    width: 100%;
+    min-height: 350px;
+    max-height: 600px;
+    vertical-align: middle;
+}
+.second {
+    padding: 30px;
+}
+.flex-container {
+    display: flex;
+}
+.third {
+    background-color: #333333;
+}
+/* .first {
+    display: flex;
+} */
+.flex-container-two {
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 30px;
+    box-sizing: border-box;
+    width: 100%;
+}
+.flex-container-three {
+    display: flex;
+}

@@ -1,0 +1,38 @@
+footer a:hover{
+    text-decoration: none;
+}
+@media(max-width: 739px) {
+    
+    .flex-container {
+        flex-direction: column;
+    }
+    .flex-container-two {
+        flex-direction: column;
+    }
+    .flex-container-three {
+        flex-direction: column;
+    }
+    .outerdiv {
+        width: 100%;
+    }
+    .divisiontwo {
+        padding-left: 60px;
+        padding-top: 10px;
+    }
+    
+    
+    } 
+    @media(max-width: 409px) {
+        #hello{
+            display: none;
+        }
+    }
+    @media(max-width: 301px) {
+        h3 {
+            font-size: 20px;
+        }
+        .divisiontwo h2 {
+            font-size: 20px;
+        }
+    }
+    
